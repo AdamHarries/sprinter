@@ -1,0 +1,13 @@
+{
+    "command" : "git",
+    "arguments": [
+        {
+            "flag": "rev-parse",
+            "values": []
+        },
+        {
+            "flag": "--verify",
+            "values": ["HEAD"]
+        }
+    ]
+}
