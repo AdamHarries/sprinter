@@ -3,11 +3,11 @@
     "arguments": [
         {
             "flag": "rev-parse",
-            "values": []
+            "values": null
         },
         {
             "flag": "--verify",
-            "values": ["HEAD"]
+            "values": {"value_list": ["HEAD"] }
         }
     ]
 }
